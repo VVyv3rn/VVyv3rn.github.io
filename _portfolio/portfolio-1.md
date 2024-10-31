@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Catacomb"
+excerpt: "The start of a game coded in Java with minimal libraries.<br/><img src='/images/catacomb_sample_screenshot.png'>"
 collection: portfolio
 ---
 
