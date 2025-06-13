@@ -22,10 +22,10 @@ repository               : "VVyv3rn/VVyv3rn.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Graeme Sigmon"
-  pronouns         : # example: "she/her"  
+  name             : "Graeme Sigmon, like going by Ren"
+  pronouns         : "Any, mostly he/him" 
   bio              : "Greatest bio of all time. For real though, I'm Graeme, I love programming, music, and playing games."
-  location         : "Earth"
+  location         : "Maryland, United States"
   employer         : "Student"
   uri              : # URL
   email            : "graemesigmon@gmail.com" 
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
